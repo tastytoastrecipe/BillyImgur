@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BillyImgur/BillyImgur.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BillyImgurData/BillyImgurData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BillyImgurDomain/BillyImgurDomain.xcodeproj">
+   </FileRef>
+</Workspace>
